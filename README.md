@@ -1,2 +1,2 @@
 # hello-world
-//github guide suggestion
+github guide suggestion
